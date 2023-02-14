@@ -1,0 +1,4 @@
+i#!/bin/dash
+chmod ugo+x hello
+
+

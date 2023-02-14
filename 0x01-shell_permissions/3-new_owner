@@ -1,0 +1,4 @@
+#!/bin/dash
+chown betty hello
+
+
